@@ -15,4 +15,7 @@ tfrecord 파일은 텐서플로우 학습 데이터를 효율적으로 저장하
 1-2)roboflow의 문제 - 데이터를 라벨링하거나 증강시키는 역할과 roboflow안에서의 모델로 학습시켜 단편적인 결과를 보는 데에는 사용하기 편리했으나 직접 층을 쌓아 모델을 만들어야 하는 우리 팀에서의 목표(CNN의 경우)와 서로 방향이 달라 어려움이 있었다.
 
 #### 3. 모델 선정
+1)CNN - 
+2)Tensorflow 2.0 Object Detection - 
+3)1-stage model : EfficientDet
 #### 4. 모델 해석
