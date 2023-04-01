@@ -5,7 +5,8 @@
 
 
 ## Modeling
-- Roboflow를 이용한 Object Detection(일반 CNN) </br>
+- Tensorflow 기반 Roboflow Object Detection(일반 CNN) </br>
 - EfficientDet  </br>
 - Pytorch 기반 YOLOv5 </br>
+- RNN </br>
 
