@@ -5,11 +5,12 @@
 
 
 ## Modeling
+- Eager Few Shot Object Detection
 - Tensorflow 기반 Roboflow Object Detection(일반 CNN) </br>
 - EfficientDet  </br>
 - Pytorch 기반 YOLOv5 </br>
 <br></br>
 
-## Update
+## Update (not yet)
 - RNN </br>
 
