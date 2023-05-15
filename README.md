@@ -13,5 +13,5 @@
 
 ## Update (not yet)
 - RNN </br>
-- 
+- ResNet </br>
 
