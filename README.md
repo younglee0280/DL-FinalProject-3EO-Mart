@@ -10,5 +10,5 @@
 - Pytorch 기반 YOLOv5 </br>
 <br></br>
 
-## Update
-- EfficientDet :  Hyperparameter optimization
+## Update (5/15 ~ 5/29)
+- EfficientDet, YOLOv5 :  Hyperparameter optimization
