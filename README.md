@@ -11,4 +11,4 @@
 <br></br>
 
 ## Update
-- hyperparameter optimization
+- EfficientDet :  Hyperparameter optimization
