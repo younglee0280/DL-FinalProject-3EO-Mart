@@ -7,7 +7,7 @@
 ## Modeling
 - Eager Few Shot Object Detection
 - Tensorflow 기반 Roboflow Object Detection - EfficientDet  </br>
-- Pytorch 기반 YOLOv5 </br>
+- Pytorch 기반 YOLOv5 with DeepSort </br>
 <br></br>
 
 ## Update (5/15 ~ 5/29)
